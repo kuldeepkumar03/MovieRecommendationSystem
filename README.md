@@ -15,3 +15,5 @@ This recommendation system is built using Python, Streamlit, and Pandas. It uses
 
 ## Video Demo
 
+https://github.com/kuldeepkumar03/MovieRecommendationSystem/assets/73730519/d05c3fcc-1e8f-47aa-9a2d-93244b6850eb
+
