@@ -12,3 +12,6 @@ Pandas
 
 ## About
 This recommendation system is built using Python, Streamlit, and Pandas. It uses collaborative filtering to suggest movies similar to the ones selected by the user. The similarity between movies is calculated based on their features.
+
+## Video Demo
+
